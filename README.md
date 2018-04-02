@@ -14,6 +14,6 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
+# build for production and view the bun dle analyzer report
 npm run build --report
 ```
